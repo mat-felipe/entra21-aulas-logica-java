@@ -1,0 +1,11 @@
+1. Crie um programa que informe o signo do usuário
+- Capturar nome , dia e mês de aniversário
+- Criar constante para numero limite do dia do mês, no caso 31
+- Se 
+	- o dia for maior que o limite
+		- Informar o valor limite para um dia do mês
+	- Senão
+		- escolher o mês correspondente para fazer as validações especificas
+			- nesse mês existe esse dia?
+			- com base no dia do mês qual é o signo
+			- mês invalido
