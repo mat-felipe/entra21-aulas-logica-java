@@ -1,2 +1,7 @@
 # entra21 Lógica de programação com Java
-Repositório com as práticas realizadas em aula e oportunidade de aprendizado na linguagem markdown 
+
+> Conteúdo prático realizado em sala durante o projeto Entra21
+> Em aditivo oportunidades de aprendizado em:
+> - Versionamento
+> - Linguagem markdown
+> - Documentação
